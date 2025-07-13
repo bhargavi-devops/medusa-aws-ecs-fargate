@@ -1,0 +1,6 @@
+bash
+
+*.tfstate
+*.tfstate.*
+.terraform/
+.env
